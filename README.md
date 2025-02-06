@@ -1,4 +1,4 @@
-# iddu01 (he/him) 11yo
+# iddu01 (he/him) 
 ppl call me tech support
 
 - I do stuff
