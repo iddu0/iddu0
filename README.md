@@ -4,7 +4,7 @@ ppl call me tech support
 - I do stuff
 - I got an Eaglercraft server, check it out: wss://hamster-enormous-clam.ngrok-free.app
 - I love Linux
-- he/him 11
+- he/him 
 
 Also the Founder of HollowTechnology (hollowtechnology.github.io)
 ## My Stats:
