@@ -2,7 +2,7 @@
 ppl call me tech support
 
 - I do stuff
-- I got an Eaglercraft server, check it out: wss://hamster-enormous-clam.ngrok-free.app
+- I got an Eaglercraft server, check it out: ~~wss://hamster-enormous-clam.ngrok-free.app~~ offline for now
 - I love Linux
 - he/him 
 
